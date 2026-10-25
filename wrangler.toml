@@ -79,6 +79,3 @@ simple = { limit = 60, period = 60 }
 [observability]
 enabled = true
 head_sampling_rate = 0.01
-
-[limits]
-cpu_ms = 100
